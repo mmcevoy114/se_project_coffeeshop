@@ -36,4 +36,5 @@
   flex-direction: row;
   justify-content: center;
   gap: 100px;
+  width: 100%;
 }
