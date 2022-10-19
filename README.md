@@ -13,4 +13,6 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I feel that additional content can be added to some of the sections such as
+a news feed or a blog that would make the page more appealing and informative.
+I will try to implement some of these ideas and update the code.
