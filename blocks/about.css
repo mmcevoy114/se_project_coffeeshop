@@ -41,7 +41,12 @@
 }
 
 .about__paragraph {
+  margin-top: 0;
   margin-bottom: 20px;
+}
+
+.about__paragraph:last-child {
+  margin-bottom: 0;
 }
 
 .about__circle {

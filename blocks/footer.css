@@ -6,7 +6,6 @@
   color: #ffffff;
   margin-top: 0;
   margin-bottom: 0;
-  position: relative;
 }
 .footer__logo {
   width: 116px;
@@ -53,15 +52,17 @@
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
-  transition: color 2s ease-in-out;
+  transition: color 1s ease-in-out;
   display: flex;
   align-items: center;
   text-decoration: none;
+  color: #ffffff;
 }
 
 .footer__social-link:hover {
   color: #c1c1c1;
 }
+
 .footer__copyright {
   padding-bottom: 60px;
   padding-left: 80px;

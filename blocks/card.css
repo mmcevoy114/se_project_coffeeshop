@@ -5,6 +5,7 @@
   flex-direction: column;
   flex-basis: 45%;
   max-width: 600px;
+  margin-bottom: 100px;
 }
 
 .card__title {
@@ -32,8 +33,8 @@
   margin-top: 0;
 }
 
-.card__list-item:nth-last-child() {
-  margin-bottom: 100px;
+.card__list-item:last-child {
+  margin-bottom: 0;
 }
 
 .card__list-divider {
